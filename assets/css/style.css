@@ -1,0 +1,130 @@
+html{
+    overflow:auto;
+}
+body{
+    font-family: 'Rock Salt', cursive;
+    font-size: 2.2vh;
+    font-weight: bold;
+    color: brown;
+    min-width: 260px;
+    overflow: auto;
+
+
+}
+.popUp{
+    margin: 3rem auto;
+    border: solid;
+    position: relative;
+    padding: 2vw 2vw 10vh 2vw;
+    border-radius: 1rem;
+/*     width: 60vw; */
+    min-width: 300px;
+    max-width:100vw; 
+    background: #00dcffcc;   
+}
+#header{
+    min-width: fit-content;
+    margin-bottom: 1em;
+}
+.answerImg{
+    max-width: 100%;
+    width: auto;
+    margin-top: 1em;
+    max-height: 50vh;
+    border: inset .1rem #ffff26b8;
+    
+}
+#timer{
+    margin-bottom: 1em;
+    font-size: 3vh;
+}
+.difficulty{
+    margin: .2em .5em;
+    font-size: 1em;
+    padding: .3em .4em;
+}
+.buttonContainer{
+    position: absolute;
+    bottom: 1vw;
+    left: 0;
+    right: 0;
+}
+.answerPad{
+    padding: 1em;
+}
+#stage{
+    border: solid .1rem;
+    margin-top: 5vw;
+    padding: 2rem 4rem;
+    background: #ffff26b8;
+    text-align: center;
+    border-radius: 2em;
+    position: relative;
+}   
+.question{
+    font-weight: bold;
+    font-size: 3vh;
+    padding: 2rem;
+}
+.answer{
+    font-size: 1.6rem; 
+    padding: .5rem;
+    font-weight: 100
+}
+.question  + .answer:hover, 
+.answer + .answer:hover{
+    font-weight: bold;
+    
+}
+.button{
+    box-shadow: 0;
+    border-radius: 1em;
+    background: #008000a8;
+    color: brown;
+    border: solid;
+}
+.playAgain{
+    margin-top: 2rem;
+    
+    
+}
+.auto{
+    margin: auto;
+    text-align: center;
+}
+.result{
+    padding: .5em;
+}
+h1{
+    font-size: 7vh
+}
+.incorrect{
+    font-size: 4vh;
+    color: red;
+    font-weight: bold;
+}
+.correct{
+    color: green;
+    font-weight: bold;
+}
+#muteControl{
+    width: 5em;
+    max-width: 10vw;
+    border: unset;
+    position: absolute;
+    bottom: 0;
+    right: 2vh;
+    opacity: .8
+}
+@media only screen and (max-width: 500px){
+    .font-adjust, #stage, body, #timer, .difficulty, .question, .answer, .incorrect {
+       font-size: 12pt;
+       padding: 1vw 1vw;
+    }    
+}
+@media only screen and (max-height: 500px){
+    .font-adjust, #stage, body, #timer, .difficulty, .question, .answer, .incorrect{
+        font-size: 12pt;
+        padding: 1vw 1vw
+    }    
+}
