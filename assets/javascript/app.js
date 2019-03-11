@@ -37,7 +37,7 @@ var gameObj =  {
                     answer3: "The family sitting on the couch",
                     answer4: "Homer driving the car",
                     correctAnswer: "The family sitting on the couch",
-                    image: 'assets/images/theSimpsons/level1/couchGag.webp'
+                    image: 'assets/images/theSimpsons/level1/couchGag.gif'
                 },
                 {
                     question: "What are the annual halloween episodes known as?",
@@ -46,7 +46,7 @@ var gameObj =  {
                     answer3: "D'oh of the Dead",
                     answer4: "The Day Springfield Stood Still",
                     correctAnswer: "Treehouse of Horror",
-                    image: 'assets/images/theSimpsons/level1/treehousOfHorror.webp'
+                    image: 'assets/images/theSimpsons/level1/treehouseOfHorror.gif'
                 }
             ];
         },
