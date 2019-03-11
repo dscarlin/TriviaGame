@@ -90,7 +90,7 @@ var gameObj =  {
                     answer3: "Married With Children",
                     answer4: "The Tonight Show",
                     correctAnswer: "The Tracy Ullman Show",
-                    image: 'assets/images/theSimpsons/level3/simpsonsUllman.webp'
+                    image: 'assets/images/theSimpsons/level3/ullman.gif'
                 },
                 {
                     question: "What was the name of the first full length episode shown?",
@@ -99,7 +99,7 @@ var gameObj =  {
                     answer3: "Kamp Krusty",
                     answer4: "The Crepes of Wrath",
                     correctAnswer: "Simpsons Roasting on an Open Fire",
-                    image: 'assets/images/theSimpsons/level3/simpsonsChristmas.webp'
+                    image: 'assets/images/theSimpsons/level3/simpsonsChristmas.gif'
                 },
                 {
                     question: "What number is the current Snowball owned by the Simpson family?",
@@ -143,7 +143,7 @@ var gameObj =  {
                     answer3: 'She "shushed" them',
                     answer4: "She kept paying for dinner",
                     correctAnswer: "She kept paying for dinner",
-                    image: 'assets/images/seinfeld/level1/seinfeldDating.webp',
+                    image: 'assets/images/seinfeld/level1/dating.gif',
                 },
                 {
                     question: "Who is the postman in Jerry's apartment building?",
@@ -152,7 +152,7 @@ var gameObj =  {
                     answer3: "Fred",
                     answer4: "Martin",
                     correctAnswer: "Newman",
-                    image: 'assets/images/seinfeld/level1/Newman.webp',
+                    image: 'assets/images/seinfeld/level1/newman.gif',
                 }
             ];
         },
@@ -165,7 +165,7 @@ var gameObj =  {
                     answer3: "Danbury Restaurant",
                     answer4: "5th Street Restaurant",
                     correctAnswer: "Tom's Restaurant",
-                    image: 'assets/images/seinfeld/level2/seinfeldCafe.webp',
+                    image: 'assets/images/seinfeld/level2/cafe.gif',
                 },
                 {
                     question: "What was the name of Kramer's mother?",
@@ -174,7 +174,7 @@ var gameObj =  {
                     answer3: "Babs",
                     answer4: "Rita",
                     correctAnswer: "Babs",
-                    image: 'assets/images/seinfeld/level2/seinfeldBabs.webp',
+                    image: 'assets/images/seinfeld/level2/babs.gif',
                 },
                 {
                     question: 'Which one of these characters befriends the "Soup Nazi"?',
@@ -183,7 +183,7 @@ var gameObj =  {
                     answer3: "Jerry",
                     answer4: "Kramer",
                     correctAnswer: "Kramer",
-                    image: 'assets/images/seinfeld/level2/seinfeldSoup.webp',
+                    image: 'assets/images/seinfeld/level2/soup.gif',
                 }
             ];
         },
@@ -196,7 +196,7 @@ var gameObj =  {
                     answer3: "Apartment 3-C",
                     answer4: "Apartment 12",
                     correctAnswer: "Apartment 5A",
-                    image: 'assets/images/seinfeld/level3/seinfeld5A.webp',
+                    image: 'assets/images/seinfeld/level3/5A.gif',
                 },
                 {
                     question: "Who used the alias Art Vandelay?",
@@ -205,7 +205,7 @@ var gameObj =  {
                     answer3: "Newman",
                     answer4: "Jerry",
                     correctAnswer: "George",
-                    image: 'assets/images/seinfeld/level3/seinfeldGeorge.webp',
+                    image: 'assets/images/seinfeld/level3/george.gif',
                 },
                 {
                     question:  'Complete the quote: "By the way, they'+"re real and they're"+' ______."',
@@ -214,7 +214,7 @@ var gameObj =  {
                     answer3: "Off limits",
                     answer4: "Spectacular",
                     correctAnswer: "Spectacular",
-                    image: 'assets/images/seinfeld/level3/seinfeldSpectacular.webp',
+                    image: 'assets/images/seinfeld/level3/spectacular.gif',
                 },
             ];
         }
@@ -238,7 +238,7 @@ var gameObj =  {
                     answer3: 'Agatha',
                     answer4: 'Midge',
                     correctAnswer: 'Laurie',
-                    image: 'assets/images/that70sShow/level1/that70sShowLaurie.webp',
+                    image: 'assets/images/that70sShow/level1/laurie.gif',
                 },
                 {
                     question: "Where does the gang spend most of their time?",
@@ -247,7 +247,7 @@ var gameObj =  {
                     answer3: "The Hub",
                     answer4: "Foreman's Basement",
                     correctAnswer: "Foreman's Basement",
-                    image: 'assets/images/that70sShow/level1/that70sShowBasement.webp',
+                    image: 'assets/images/that70sShow/level1/basement.gif',
                 },
                 {
                     question: 'Fes(z) is an acronym for what?',
@@ -256,7 +256,7 @@ var gameObj =  {
                     answer3: 'Fair Eyed Simpleton',
                     answer4: 'For Everything Simple',
                     correctAnswer: 'Foreign Exchange Student',
-                    image: 'assets/images/that70sShow/level1/that70sShowFez.webp',
+                    image: 'assets/images/that70sShow/level1/fez.gif',
                 },
             ];
         },
@@ -269,7 +269,7 @@ var gameObj =  {
                     answer3: 'Twelve',
                     answer4: 'Seventeen',
                     correctAnswer: 'Fourteen',
-                    image: 'assets/images/that70sShow/level2/that70sShowJackie.webp',
+                    image: 'assets/images/that70sShow/level2/jackie.gif',
                 },
                 {
                     question: 'Which car did the Foreman family own?',
@@ -278,7 +278,7 @@ var gameObj =  {
                     answer3: 'Oldsmobile Vista Cruiser',
                     answer4: 'Dodge Monaco',
                     correctAnswer: 'Oldsmobile Vista Cruiser',
-                    image: 'assets/images/that70sShow/level2/that70sShowVistaCruiser.webp',
+                    image: 'assets/images/that70sShow/level2/vistaCruiser.gif',
                 },
                 {
                     question: "What is Red's favorite insult?",
@@ -287,7 +287,7 @@ var gameObj =  {
                     answer3: "Fool",
                     answer4: "Moron",
                     correctAnswer: "Dumbass",
-                    image: 'assets/images/that70sShow/level2/that70sShowRed.webp',
+                    image: 'assets/images/that70sShow/level2/red.gif',
                 }
             ];
         },
@@ -300,7 +300,7 @@ var gameObj =  {
                     answer3: "Hot Donna",
                     answer4: "Delicious Donna",
                     correctAnswer: "Hot Donna",
-                    image: 'assets/images/that70sShow/level3/that70sShowHotDonna.webp',
+                    image: 'assets/images/that70sShow/level3/hotDonna.gif',
                 },
                 {
                     question: 'Where did Hyde work when he met Leo, who was played by Tommy Chong?',
@@ -309,7 +309,7 @@ var gameObj =  {
                     answer3: "Spinnin' Records",
                     answer4: "Foto Hut",
                     correctAnswer: "Foto Hut",
-                    image: 'assets/images/that70sShow/level3/that70sShowChong.webp',
+                    image: 'assets/images/that70sShow/level3/chong.gif',
                 },
                 {
                     question: "What is Eric's favorite movie?",
@@ -318,7 +318,7 @@ var gameObj =  {
                     answer3: "Star Wars",
                     answer4: "Taxi Driver",
                     correctAnswer: "Star Wars",
-                    image: 'assets/images/that70sShow/level3/that70sShowStarWars.webp',
+                    image: 'assets/images/that70sShow/level3/starWars.gif',
                 }
             ];      
         }
