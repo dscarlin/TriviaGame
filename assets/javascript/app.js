@@ -77,7 +77,7 @@ var gameObj =  {
                     answer3: "The Leftorium",
                     answer4: "Ned's Beds",
                     correctAnswer: "The Leftorium",
-                    image: 'assets/images/theSimpsons/level2/leftorium.webp'
+                    image: 'assets/images/theSimpsons/level2/leftorium.gif'
                 }
             ];
         },
