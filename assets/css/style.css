@@ -16,9 +16,7 @@ body{
 .title2{
     font-size: 3rem
 }
-.solidDisplay{
-    background-color: #ffff26
-}
+
 .popUp{
     margin: 3rem auto;
     border: solid;
@@ -114,6 +112,7 @@ h1{
 h3{
     font-size: 3vh
 }
+
 .incorrect{
     font-size: 4vh;
     color: red;
