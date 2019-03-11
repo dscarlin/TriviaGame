@@ -37,7 +37,7 @@ var gameObj =  {
                     answer3: "The family sitting on the couch",
                     answer4: "Homer driving the car",
                     correctAnswer: "The family sitting on the couch",
-                    image: 'https://media.giphy.com/media/3o6MbqNPaatT8nnEmk/giphy.gif'
+                    image: 'assets/images/theSimpsons/level1/couchGag.gif'
                 },
                 {
                     question: "What are the annual halloween episodes known as?",
@@ -68,7 +68,7 @@ var gameObj =  {
                     answer3: "Purple hair",
                     answer4: "Freckles",
                     correctAnswer: "Eyebrows",
-                    image: 'assets/images/theSimpsons/level2/milhouseEyebrows.webp'
+                    image: 'assets/images/theSimpsons/level2/milhouseEyebrows.gif'
                 },
                 {
                     question: "What is the name of Ned Flanders' store at the Springfield Mall",
@@ -108,7 +108,7 @@ var gameObj =  {
                     answer3: "Snowball V",
                     answer4: "Snowball VII",
                     correctAnswer: "Snowball V",
-                    image: 'assets/images/theSimpsons/level3/snowballV.webp'
+                    image: 'assets/images/theSimpsons/level3/snowballV.gif'
                 }
             ];
         }
