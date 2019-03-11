@@ -37,7 +37,7 @@ var gameObj =  {
                     answer3: "The family sitting on the couch",
                     answer4: "Homer driving the car",
                     correctAnswer: "The family sitting on the couch",
-                    image: 'assets/images/theSimpsons/level1/couchGag.gif'
+                    image: 'https://media.giphy.com/media/3o6MbqNPaatT8nnEmk/giphy.gif'
                 },
                 {
                     question: "What are the annual halloween episodes known as?",
