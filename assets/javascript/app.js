@@ -355,11 +355,15 @@ function showThemePopup(){
 function gamePlay(){
     //makes title2 smaller once theme dictates title1
     $('#title2').removeClass('title2');
-    //jquery and 
+    //jquery and variables for current theme
     defineVariables();
+    //backstetch for current theme
     backstretch();
+    //displays title for current theme
     displayTitle();
+    //plays themesong for current theme
     themeSong();
+    //
     muteControl();
     selectDifficulty(runQuestions);
 };
@@ -519,6 +523,9 @@ function playAgain(){
     .on('click','.changeTheme', function(){
         $('.backstretch').animate({opacity: 0}, 500);
         $themeSong.animate({volume: 0}, 500);
+        setTimeout(function(){
+            $themeSong.attr('src','');
+        }, 500);
         $title.html('');
         introHtml = "Please select a theme:";
         resetBoard(selectTheme);
